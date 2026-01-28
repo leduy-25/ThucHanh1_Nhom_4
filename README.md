@@ -24,8 +24,6 @@ Nhiệm vụ 3.2: Viết báo cáo ngắn (150 chữ) phân tích về tính min
 
 **Danh mục tài liệu tham khảo AI**
 
-Việc trích dẫn tuân thủ nguyên tắc cung cấp tên mô hình, phiên bản, ngày truy vấn và nhà phát triển:
-
 Google: Google. (2026). Gemini 2.0 Flash (phiên bản ngày 28 tháng 1) [Mô hình ngôn ngữ lớn]. https://gemini.google.com/
 
 OpenAI: OpenAI. (2026). ChatGPT-5 (phiên bản ngày 28 tháng 1) [Mô hình ngôn ngữ lớn]. https://chatgpt.com/
